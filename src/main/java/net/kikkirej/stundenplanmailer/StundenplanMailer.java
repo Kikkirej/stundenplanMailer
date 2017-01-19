@@ -8,6 +8,7 @@ public class StundenplanMailer {
 
 	private void run(String[] args) {
 		System.out.println("StundenplanMailer.run()");
+	
 	}
 
 }
